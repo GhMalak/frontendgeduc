@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { unescape } from 'querystring';
+
 import { Observable } from 'rxjs';
 import { EventModel } from 'src/app/models/event.model';
 import { NotificationModel } from 'src/app/models/notification.model';

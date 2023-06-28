@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  GEDUC_API: 'https://back-geduc.herokuapp.com'
+  GEDUC_API: 'https://pidi-completo.herokuapp.com'
 };
 
 
